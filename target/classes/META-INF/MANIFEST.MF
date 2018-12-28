@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: gouravsuri
+Build-Jdk: 11.0.1
+Implementation-Title: Course Api
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.creditsaison.started
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/course-api/
+Created-By: Maven Integration for Eclipse
+
